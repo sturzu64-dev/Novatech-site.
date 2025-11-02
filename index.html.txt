@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+NovaTech - Tehnologie la ușa ta
+NovaTech
+Acasă Produse Despre Noi Contact
+Tehnologie nouă, direct la ușa ta
+Vezi Produsele
+Produse vedetă
+  <div class="product">
+    <img src="https://via.placeholder.com/300x200" alt="Căști Wireless">
+    <h4>Căști Wireless</h4>
+    <p>Sunet clar și livrare rapidă</p>
+    <button onclick="addToCart('Căști Wireless')">Adaugă în coș</button>
+  </div>
+  <div class="product">
+    <img src="https://via.placeholder.com/300x200" alt="Boxă Bluetooth">
+    <h4>Boxă Bluetooth</h4>
+    <p>Sunet puternic și portabil</p>
+    <button onclick="addToCart('Boxă Bluetooth')">Adaugă în coș</button>
+  </div>
+  <div class="product">
+    <img src="https://via.placeholder.com/300x200" alt="Brățară Smart">
+    <h4>Brățară Smart</h4>
+    <p>Monitorizare fitness și notificări</p>
+    <button onclick="addToCart('Brățară Smart')">Adaugă în coș</button>
+  </div>
+</div>
+Despre NovaTech
+NovaTech aduce cele mai noi gadget-uri direct la ușa ta. Misiunea noastră este să oferim produse inovative, la prețuri corecte, cu livrare rapidă și servicii excelente pentru clienți.
+Contactează-ne
+ 
+Trimite
+© 2025 NovaTech. Toate drepturile rezervate.
